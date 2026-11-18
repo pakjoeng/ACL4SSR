@@ -1,0 +1,8 @@
+payload:
+  # 内容：OpenCode/Qoder 直连
+  # 数量：5条
+  - DOMAIN-SUFFIX,opencode.ai
+  - DOMAIN-SUFFIX,qoder.cn
+  - DOMAIN-SUFFIX,qoder.com
+  - DOMAIN-SUFFIX,qoder.com.cn
+  - DOMAIN-SUFFIX,qoder.sh
