@@ -1,5 +1,5 @@
 # 内容：AI平台-国外
-# 数量：74条
+# 数量：76条
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,antigravity
 DOMAIN-KEYWORD,claude
@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,aiplatform.eu.rep.googleapis.com
 DOMAIN-SUFFIX,aiplatform.mtls.googleapis.com
 DOMAIN-SUFFIX,aiplatform.us.rep.googleapis.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity.google.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,businessaicode.googleapis.com
