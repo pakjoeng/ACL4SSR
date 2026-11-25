@@ -1,0 +1,21 @@
+# 内容：Google AI 补充（Gemini / Antigravity）
+# 数量：19条
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,aiplatform.googleapis.com
+DOMAIN-SUFFIX,aiplatform.eu.rep.googleapis.com
+DOMAIN-SUFFIX,aiplatform.mtls.googleapis.com
+DOMAIN-SUFFIX,aiplatform.us.rep.googleapis.com
+DOMAIN-SUFFIX,businessaicode.googleapis.com
+DOMAIN-SUFFIX,businessaicode.eu.rep.googleapis.com
+DOMAIN-SUFFIX,businessaicode.mtls.googleapis.com
+DOMAIN-SUFFIX,businessaicode.us.rep.googleapis.com
+DOMAIN-SUFFIX,discoveryengine.googleapis.com
+DOMAIN-SUFFIX,discoveryengine.mtls.googleapis.com
+DOMAIN-SUFFIX,eu-discoveryengine.googleapis.com
+DOMAIN-SUFFIX,eu-discoveryengine.mtls.googleapis.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,us-discoveryengine.googleapis.com
+DOMAIN-SUFFIX,us-discoveryengine.mtls.googleapis.com
